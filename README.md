@@ -1,5 +1,7 @@
 # Portfolio-Planner-Budget-Analysis
+
 In this project, we will use available APIs to obtain bank account transactions and fetch retirement portfolio prices to perform some tricky calculations and simulate the retirement investment projections. Once we have that data, we will perform a budget analysis, a retirement planning, a Monte Carlo simulation and a financial report to help build a report for customers that links to their banking and investment accounts and automatically refreshes the data and charts on login.
+
 ### Budget Analysis
 
 In this section, we will use the Plaid API to obtain transaction and account data for the budget analysis section of the report.
